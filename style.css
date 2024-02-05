@@ -1,0 +1,41 @@
+@import url("./reset.css");
+body {
+  background-color: antiquewhite;
+}
+.div {
+  background-color: white;
+  border: 1px solid rgb(223, 213, 213);
+  border: none;
+  border-radius: 10px;
+  margin: 7rem;
+  padding: 2px 0.5rem;
+  width: max-content;
+}
+.email {
+  border-radius: 10px;
+  padding: 0.7rem;
+}
+.pass {
+  border-radius: 10px;
+  padding: 0.7rem;
+}
+.log {
+  margin: 7px;
+  text-align: center;
+}
+.log button {
+  color: white;
+  background-color: blue;
+  padding: 1px 5rem;
+  border-radius: 5px;
+  border: none;
+}
+.new {
+  padding: 0.5rem;
+  color: white;
+  background-color: rgb(22, 189, 22);
+  border-radius: 10px;
+  align-items: center;
+  margin: 2rem;
+  border: none;
+}
